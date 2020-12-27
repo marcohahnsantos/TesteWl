@@ -1,7 +1,7 @@
 APP FEITO EM ANDROID PARA DESAFIO DO CHURRASCO
 Projeto está em https://github.com/marcohahnsantos/TesteWl.git
 Fiz um app em Android para satisifazer o que foi solicitado  o apk se encontra em 
-D:\Util\TesteWl\bin estou usando o dieretorio D:util e o programa é SATCARGO.SATCARGO-Signed.apk so executar no aplicativo 
+D:\Util\TesteWl\bin estou usando o dieretorio D:util e o programa TESTEWL.TESTEWL-Signed.apk so executar no aplicativo 
 fiz com xamarim e visual studio  usando sqlite
 
 funcoes 
